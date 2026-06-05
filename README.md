@@ -83,9 +83,9 @@ If you find this work useful, please cite:
 ```bibtex
 @article{nguyen2025msrnet,
   title   = {MSR-Net: Multi-Scale Structural Re-parameterization with Scale-Sensitive Loss for Real-Time Infrared Small Target Detection},
-  author  = {Nguyen, Truong Danh and Tran, Duc Manh and Nguyen, Viet Hung},
-  journal = {<Journal Name>},
-  year    = {2025}
+  author  = {Truong Danh Nguyen, and Duc Manh Tran and Viet Hung Nguyen},
+  journal = {},
+  year    = {2026}
 }
 ```
 
@@ -93,7 +93,7 @@ If you find this work useful, please cite:
 
 ## Acknowledgements
 
-This work was supported by the Electro-Optical Center, Viettel High Technology Industries Corporation, Viettel Group, Hanoi, Vietnam. We thank the providers of the **IRSTD-1k** and **SISD-Sky** datasets for enabling reproducible benchmarking. The structural re-parameterization formulation builds on [RepVGG](https://github.com/DingXiaoH/RepVGG), [DBB](https://github.com/DingXiaoH/DiverseBranchBlock), and [ACNet](https://github.com/DingXiaoH/ACNet).
+This work was supported by the Electro-Optical Center, Viettel High Technology Industries Corporation, Viettel Group, Hanoi, Vietnam. We thank the providers of the **IRSTD-1k** and **SISD-Sky** datasets for enabling reproducible benchmarking. 
 
 ---
 
