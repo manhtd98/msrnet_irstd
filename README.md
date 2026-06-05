@@ -83,7 +83,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{nguyen2025msrnet,
   title   = {MSR-Net: Multi-Scale Structural Re-parameterization with Scale-Sensitive Loss for Real-Time Infrared Small Target Detection},
-  author  = {Truong Danh Nguyen, and Duc Manh Tran and Viet Hung Nguyen},
+  author  = {Truong Danh Nguyen, Duc Manh Tran, Viet Hung Nguyen},
   journal = {},
   year    = {2026}
 }
