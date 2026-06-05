@@ -7,7 +7,6 @@ Official PyTorch implementation of **"MSR-Net: Multi-Scale Structural Re-paramet
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1.10+-ee4c2c.svg"></a>
-  <a href="#license"><img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 </p>
 
 ---
